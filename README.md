@@ -7,7 +7,7 @@ Janikaa Sri R (192511092)
 Sandhiya R (192511132)
 R Tamilarasan (192511298)
 
-My Contributions (Deepak R)
+#My Contributions (Deepak R)
 
 I was responsible for the development and implementation of Module 2 – Responsive Task Segmentation (RTS) Scheduler.
 
