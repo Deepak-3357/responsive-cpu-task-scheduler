@@ -39,3 +39,29 @@ I was responsible for the development and implementation of **Module 2 – Respo
 * Performance Comparison
 * Gantt Chart Visualization
 * Live CPU State Simulation
+
+## Project Overview
+
+Responsive CPU Task Scheduler is an ML-assisted CPU Scheduling Simulator that combines traditional scheduling algorithms such as FCFS and Round Robin with a custom Responsive Task Segmentation (RTS) Scheduler. The system dynamically classifies processes and applies adaptive scheduling strategies to improve waiting time and turnaround time performance.
+
+## Screenshots
+
+### Main Interface
+![Main GUI](maingui.png)
+
+### Performance Comparison
+![Performance Graph](performance_graph.png)
+
+### Gantt Chart Visualization
+![Gantt Chart](gantt_chart.png)
+
+### Live Simulation Lab
+![Simulation Lab](simulation_lab.png)
+
+## How to Run
+
+1. Install Python 3.8 or above
+2. Install required libraries:
+
+```bash
+pip install scikit-learn matplotlib pillow numpy
